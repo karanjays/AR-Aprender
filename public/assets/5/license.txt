@@ -1,0 +1,11 @@
+Model Information:
+* title:	chemistry (Atomic model)
+* source:	https://sketchfab.com/3d-models/chemistry-atomic-model-132410dcc28744bbb111f81b0bf0e4da
+* author:	teachersmapd (https://sketchfab.com/teachersmapd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "chemistry (Atomic model)" (https://sketchfab.com/3d-models/chemistry-atomic-model-132410dcc28744bbb111f81b0bf0e4da) by teachersmapd (https://sketchfab.com/teachersmapd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,19 @@
+Augmented reality
+        adding digital object into real world.
+
+marker base ar
+        based on marker (default and customized i.e user generated)
+
+markerless ar
+        marker in not needed to add digital object it work in SLAM simultaneous localization and mapping
+part of marker less
+super imposed based ar
+        it work on object recognition.
+
+location based ar
+        it work on location base.(3d map in gta vice-city)
+
+projection based ar
+        hologram
+
+vr it is computer generated 3d simulation

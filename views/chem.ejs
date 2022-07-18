@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--for use 3d models in website we use aframe ithelp to see 3d model-->
+    <script src="https://aframe.io/releases/0.9.2/aframe.min.js"></script>
+    <!--for augmenting the 3d model in real world we use  ar.js with the help of marker-->
+    <script src="https://raw.githack.com/jeromeetienne/AR.js/master/aframe/build/aframe-ar.min.js"></script>
+    <!--for adding additional animated model adon lib is used-->
+    <script src="https://raw.githack.com/donmccurdy/aframe-extras/master/dist/aframe-extras.loaders.min.js"></script>
+    
+    <title>AR placeholder</title>
+</head>
+
+<body>
+    <!-- all AR work is done here BCZ a-scene is a parent tag for AR Library of JS -->
+    <!-- including arjs lib by embedded arjs -->
+    <!-- used as refrence link of inbuilt marker by"detectionMode: mono_and_matrix; matrixCodeType: 3x3;" -->
+    <a-scene embedded arjs="detectionMode: mono_and_matrix; matrixCodeType: 3x3;">
+        <!-- all assest i.e 3d model will be added here -->
+        <a-assest>
+            <a-asset-item id="a" src="./assets/1/scene.gltf" ></a-asset-item>
+            <a-asset-item id="b" src="./assets/2/scene.gltf" ></a-asset-item>
+            <a-asset-item id="c" src="./assets/3/scene.gltf" ></a-asset-item>
+            <a-asset-item id="d" src="./assets/4/scene.gltf" ></a-asset-item>
+            <a-asset-item id="e" src="./assets/5/scene.gltf" ></a-asset-item>
+            <a-asset-item id="f" src="./assets/6/scene.gltf" ></a-asset-item>
+            <a-asset-item id="g" src="./assets/7/scene.gltf" ></a-asset-item>
+        </a-assest>
+
+        <!--for [30] default and different barcode markers and show digital objects - 3D-model/image/video/anything  -->
+        
+
+        <a-marker type='barcode' value='0'>
+            <a-entity scale="0.5 0.5 0.5"  gltf-model="#a"></a-entity>
+		</a-marker>
+
+        <a-marker type='barcode' value='1'>
+            <a-entity scale="0.002 0.002 0.002"  animation-mixer gltf-model="#b"></a-entity>
+        </a-marker>
+
+        <a-marker type='barcode' value='2'>
+            <a-entity scale="2.5 2.5 2.5"  animation-mixer gltf-model="#c"></a-entity>
+        </a-marker>
+        
+        
+        <a-marker type='barcode' value='3'>
+            <a-entity scale="0.2 0.2 0.2"  animation-mixer gltf-model="#d"></a-entity>
+        </a-marker>
+        
+        
+        <a-marker type='barcode' value='4'>
+            <a-entity scale="0.02 0.02 0.02"  animation-mixer gltf-model="#e"></a-entity>
+        </a-marker>
+        
+        
+        <a-marker type='barcode' value='5'>
+            <a-entity scale="0.02 0.02 0.02"  animation-mixer gltf-model="#f"></a-entity>
+        </a-marker>
+        
+        
+        <a-marker type='barcode' value='6'>
+            <a-entity scale="0.02 0.02 0.02"  animation-mixer gltf-model="#g"></a-entity>
+        </a-marker>
+        
+        
+        <a-marker type='barcode' value='7'>
+            <a-entity scale="0.02 0.02 0.02"  animation-mixer gltf-model="#a"></a-entity>
+        </a-marker>
+        
+        
+        <a-marker type='barcode' value='8'>
+        </a-marker>
+        
+        
+        <a-marker type='barcode' value='9'>
+        </a-marker>
+        
+        
+        <a-marker type='barcode' value='10'>
+        </a-marker>
+        
+        
+        <a-marker type='barcode' value='11'>
+        </a-marker>
+        
+        
+        <a-marker type='barcode' value='12'>
+        </a-marker>
+        
+        
+        <a-marker type='barcode' value='13'>
+        </a-marker>
+        
+        
+        <a-marker type='barcode' value='14'>
+        </a-marker>
+        
+        
+        <a-marker type='barcode' value='15'>
+        </a-marker>
+        
+        
+        <a-marker type='barcode' value='16'>
+        </a-marker>
+        
+        
+        <a-marker type='barcode' value='17'>
+        </a-marker>
+        
+        
+        <a-marker type='barcode' value='18'>
+        </a-marker>
+        
+        
+        <a-marker type='barcode' value='19'>
+        </a-marker>
+        
+        
+        <a-marker type='barcode' value='20'>
+        </a-marker>
+
+        <!-- add a camera -->
+        <a-entity camera></a-entity>
+
+    </a-scene>
+
+</body>
+
+</html>

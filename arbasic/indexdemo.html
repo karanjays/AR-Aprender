@@ -1,0 +1,134 @@
+<!-- <html>
+
+<head>
+    
+</head>
+
+<body>
+    <script language="JavaScript1.2">
+        //configure message
+        message = "Hello Friends, See How is text Dancing hjdshh dhjhjd dhjjhdhjds dsjhdhdh dhjdjhhjdf dfhjdfhjdffd fhjhdfjhdf . "
+        //animate text in NS6? (0 will turn it off)
+        ns6switch = 1
+
+        var ns6 = document.getElementById && !document.all
+        mes = new Array();
+        mes[0] = -1;
+        mes[1] = -4;
+        mes[2] = -7; mes[3] = -10;
+        mes[4] = -7;
+        mes[5] = -4;
+        mes[6] = -1;
+        num = 0;
+        num2 = 0;
+        txt = "";
+        function jump0() {
+            if (ns6 && !ns6switch) {
+                jump.innerHTML = message
+                return
+            }
+            if (message.length > 6) {
+                for (i = 0; i != message.length; i++) {
+                    txt = txt + "<span style='position:relative;' id='n" + i + "'>" + message.charAt(i) + "</span>"
+                };
+                jump.innerHTML = txt;
+                txt = "";
+                jump1a()
+            }
+            else {
+                alert("Plz Write some more words")
+            }
+        }
+
+        function jump1a() {
+            nfinal = (document.getElementById) ? document.getElementById("n0") : document.all.n0
+            nfinal.style.left = -num2;
+            if (num2 != 9) {
+                num2 = num2 + 3;
+                setTimeout("jump1a()", 50)
+            }
+            else {
+                jump1b()
+            }
+        }
+
+        function jump1b() {
+            nfinal.style.left = -num2;
+            if (num2 != 0) {
+                num2 = num2 - 3;
+                setTimeout("jump1b()", 50)
+            }
+            else {
+                jump2()
+            }
+        }
+
+        function jump2() {
+            txt = "";
+            for (i = 0; i != message.length; i++) {
+                if (i + num > -1 && i + num < 7) {
+                    txt = txt + "<span style='position:relative;top:" + mes[i + num] + "'>" + message.charAt(i) + "</span>"
+                }
+                else { txt = txt + "<span>" + message.charAt(i) + "</span>" }
+            }
+            jump.innerHTML = txt;
+            txt = "";
+            if (num != (-message.length)) {
+                num--;
+                setTimeout("jump2()", 50)
+            }
+            else {
+                num = 0;
+                setTimeout("jump0()", 50)
+            }
+        }
+    </script>
+
+    <h2>
+        <div id="jumpx" style="color:black"><span style="position: relative; left: -6px;" id="n0">H</span><span
+                style="position:relative;" id="n1">e</span><span style="position:relative;" id="n2">l</span><span
+                style="position:relative;" id="n3">l</span><span style="position:relative;" id="n4">o</span><span
+                style="position:relative;" id="n5"> </span><span style="position:relative;" id="n6">F</span><span
+                style="position:relative;" id="n7">r</span><span style="position:relative;" id="n8">i</span><span
+                style="position:relative;" id="n9">e</span><span style="position:relative;" id="n10">n</span><span
+                style="position:relative;" id="n11">d</span><span style="position:relative;" id="n12">s</span><span
+                style="position:relative;" id="n13">,</span><span style="position:relative;" id="n14"> </span><span
+                style="position:relative;" id="n15">S</span><span style="position:relative;" id="n16">e</span><span
+                style="position:relative;" id="n17">e</span><span style="position:relative;" id="n18"> </span><span
+                style="position:relative;" id="n19">H</span><span style="position:relative;" id="n20">o</span><span
+                style="position:relative;" id="n21">w</span><span style="position:relative;" id="n22"> </span><span
+                style="position:relative;" id="n23">i</span><span style="position:relative;" id="n24">s</span><span
+                style="position:relative;" id="n25"> </span><span style="position:relative;" id="n26">t</span><span
+                style="position:relative;" id="n27">e</span><span style="position:relative;" id="n28">x</span><span
+                style="position:relative;" id="n29">t</span><span style="position:relative;" id="n30"> </span><span
+                style="position:relative;" id="n31">D</span><span style="position:relative;" id="n32">a</span><span
+                style="position:relative;" id="n33">n</span><span style="position:relative;" id="n34">c</span><span
+                style="position:relative;" id="n35">i</span><span style="position:relative;" id="n36">n</span><span
+                style="position:relative;" id="n37">g</span><span style="position:relative;" id="n38">.</span><span
+                style="position:relative;" id="n39"> </span></div>
+    </h2>
+    <script>
+        if (document.all || document.getElementById) {
+            jump = (document.getElementById) ? document.getElementById("jumpx") : document.all.jumpx
+            jump0()
+        }
+        else
+            document.write(message)
+    </script>
+</body>
+</html> -->
+
+<html>
+<head>
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
+
+<img src="https://drive.google.com/file/d/1OPB_mf46DbYKYh-UZX8MyQKyTt1cBzyW/view" alt="karan" style="width:200px">
+
+</body>
+</html> 

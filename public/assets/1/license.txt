@@ -1,0 +1,11 @@
+Model Information:
+* title:	H2O Molecule 3d model
+* source:	https://sketchfab.com/3d-models/h2o-molecule-3d-model-56527901d7ec4b8891845d8bf2c2431f
+* author:	AK Chemistry (https://sketchfab.com/AKchemistry)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "H2O Molecule 3d model" (https://sketchfab.com/3d-models/h2o-molecule-3d-model-56527901d7ec4b8891845d8bf2c2431f) by AK Chemistry (https://sketchfab.com/AKchemistry) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

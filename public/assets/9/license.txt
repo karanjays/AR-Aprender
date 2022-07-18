@@ -1,0 +1,11 @@
+Model Information:
+* title:	Craniofacial Anatomy Atlas
+* source:	https://sketchfab.com/3d-models/craniofacial-anatomy-atlas-481457044f464d4d816d0851cbdb963f
+* author:	darrenmsmith (https://sketchfab.com/darrenmsmith)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Craniofacial Anatomy Atlas" (https://sketchfab.com/3d-models/craniofacial-anatomy-atlas-481457044f464d4d816d0851cbdb963f) by darrenmsmith (https://sketchfab.com/darrenmsmith) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	A Molecule "Chemistry"
+* source:	https://sketchfab.com/3d-models/a-molecule-chemistry-09e3aeb241f64041be9a5ddf7f0eacee
+* author:	Toby_Kershaw (https://sketchfab.com/Toby_Kershaw)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "A Molecule "Chemistry"" (https://sketchfab.com/3d-models/a-molecule-chemistry-09e3aeb241f64041be9a5ddf7f0eacee) by Toby_Kershaw (https://sketchfab.com/Toby_Kershaw) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

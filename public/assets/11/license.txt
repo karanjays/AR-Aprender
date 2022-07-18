@@ -1,0 +1,11 @@
+Model Information:
+* title:	female anatomy_2
+* source:	https://sketchfab.com/3d-models/female-anatomy-2-423ab35b97f14f3ba179e3625e9e6945
+* author:	graft (https://sketchfab.com/graft)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "female anatomy_2" (https://sketchfab.com/3d-models/female-anatomy-2-423ab35b97f14f3ba179e3625e9e6945) by graft (https://sketchfab.com/graft) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
